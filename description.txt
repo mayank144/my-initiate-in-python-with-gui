@@ -1,0 +1,29 @@
+2018-07-17 20:09:08.632938 || PIN=0 || POUT=0 || IIN=100 || IOUT=0 || 100 number of Diamond Maida(new item) added
+2018-07-17 20:09:32.126579 || PIN=0 || POUT=0 || IIN=10 || IOUT=0 || 10 number of MAIDA(new item) added
+2018-07-17 20:10:04.309435 || PIN=0 || POUT=0 || IIN=12 || IOUT=0 || 12 number of SUJI (new item) added
+2018-09-05 21:53:22.308244 || PIN=0 || POUT=0 || IIN=34 || IOUT=0 || 34 number of pencil(new item) added
+2018-09-05 21:58:13.083409 || PIN=0 || POUT=0 || IIN=2 || IOUT=0 || 2 number of pens(new item) added
+2018-09-05 22:01:58.909837 || PIN=45 || POUT=0 || IIN=0 || IOUT=0 || just like that
+2018-09-05 22:44:04.179760 || PIN=34 || POUT=0 || IIN=0 || IOUT=1 || 1 number of pencil has been sold for 34 INR (34 per unit)
+2018-09-05 22:46:09.423187 || PIN=0 || POUT=0 || IIN=0 || IOUT=0 || 
+2018-09-05 22:47:22.695820 || PIN=-20 || POUT=0 || IIN=0 || IOUT=0 || to decrease
+2018-09-06 13:40:38.952438 || PIN=4 || POUT=0 || IIN=0 || IOUT=3 || A NEW ACCOUNT CREATE WITH NAME Mohit has been created with balance=2
+2018-09-06 13:41:33.022133 || PIN=20 || POUT=0 || IIN=0 || IOUT=1 || 1 number of pencil has been sold for 20 INR (20 per unit)
+2018-09-06 13:41:57.888576 || PIN=4 || POUT=0 || IIN=0 || IOUT=2 || A NEW ACCOUNT CREATE WITH NAME Manish has been created with balance=2
+2018-09-06 13:42:57.309081 || PIN=5 || POUT=0 || IIN=0 || IOUT=2 || 2 items of pencil is bought by Mohit at the rate of 12 per item and he paid only 5 INR and now total balance left=19
+2018-09-06 13:44:46.587272 || PIN=1 || POUT=0 || IIN=0 || IOUT=0 || 1 INR has been deposited to account=Manish and now 1 INR balance has been left
+2018-09-06 13:45:07.756510 || PIN=22 || POUT=0 || IIN=0 || IOUT=0 || 22 INR has been deposited to account=Mohit and now -1 INR balance has been left
+2018-09-06 13:45:46.054577 || PIN=0 || POUT=0 || IIN=2 || IOUT=0 || 2 number of gold(new item) added
+2018-09-06 13:50:54.607519 || PIN=-200 || POUT=0 || IIN=0 || IOUT=0 || Monish to lend 200 ruppees
+2018-09-06 14:31:27.660566 || PIN=0 || POUT=0 || IIN=20 || IOUT=0 || 20 number of Registers(new item) added
+2018-09-06 14:35:45.326219 || PIN=0 || POUT=0 || IIN=50 || IOUT=0 || 50 number of copy(new item) added
+2018-09-06 14:39:18.219793 || PIN=0 || POUT=0 || IIN=12 || IOUT=0 || 12 number of Rubber(new item) added
+2018-09-06 15:14:25.785526 || PIN=7 || POUT=0 || IIN=0 || IOUT=4 || A NEW ACCOUNT CREATE WITH NAME mayank has been created with balance=1
+2018-09-06 15:33:40.546649 || PIN=3 || POUT=0 || IIN=0 || IOUT=0 || 3 INR has been deposited to account=Manish and now -2 INR balance has been left
+2018-09-06 15:34:43.851560 || PIN=200 || POUT=0 || IIN=0 || IOUT=0 || hospital donation
+2018-09-06 15:34:52.649975 || PIN=0 || POUT=0 || IIN=0 || IOUT=0 || 
+2018-09-06 16:45:16.780328 || PIN=0 || POUT=0 || IIN=0 || IOUT=0 || 0 INR has been deposited to account=mayank and now 1 INR balance has been left
+2018-09-06 17:02:32.002256 || PIN=45 || POUT=0 || IIN=0 || IOUT=20 || A NEW ACCOUNT CREATE WITH NAME siddharth has been created with balance=35
+2018-09-07 12:05:49.626425 || PIN=10 || POUT=0 || IIN=0 || IOUT=1 || 1 items of pens is bought by Manish at the rate of 30 per item and he paid only 10 INR and now total balance left=20
+2018-09-07 12:06:25.132088 || PIN=15 || POUT=0 || IIN=0 || IOUT=10 || 10 items of pencil is bought by Mohit at the rate of 10 per item and he paid only 15 INR and now total balance left=85
+2018-09-07 12:12:04.276683 || PIN=20 || POUT=0 || IIN=0 || IOUT=1 || 1 items of pens is bought by Manish at the rate of 30 per item and he paid only 20 INR and now total balance left=10
